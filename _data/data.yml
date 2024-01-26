@@ -2,7 +2,7 @@ basic:
   name: Pragya Kajla                      # name
   title:                                   # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: false                      # show or hide avatar
     path: /assets/images/photo.jpg # avatar file path
 
 contact:
@@ -155,7 +155,7 @@ skill:
     - name: React.js
       level: 1
     - name: Java
-      level: 2
+      level: 4
     - name: PHP
       level: 2
 
