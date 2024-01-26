@@ -119,6 +119,12 @@ project:
   order: 3
   title: Projects
   items:
+    - name: Speech to Speech translator
+      link:
+      tags:
+      date: Aug 2023 - Jan 2024
+      description: |
+        The application converts speech from english to hindi. Divided into 3 parts: speech to text(english), translating from englist to hindi, and text to speech (hindi).
     - name: Movie Recommendation System
       link: '#'
       tags:
@@ -321,7 +327,7 @@ language:
 
     It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
 
-  items:
+  Extracurricular:
     - idiom: Chinese
       level: Native
     - idiom: English
