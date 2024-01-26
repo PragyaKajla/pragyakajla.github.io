@@ -336,13 +336,12 @@ language:
 interest:
   show: true
   order: 12
-  title: Interests
+  title: Extracurricular
   items:
     - item: ViceChairperson at RAIT ACM-W
     - item: CreativeChief at RAIT ACM
     - item: Basketball Captain
     - item: Part of Badminton Team
-    - item: Volunteered for NGO's
 
 evaluation:
   show: false
