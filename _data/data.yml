@@ -125,6 +125,12 @@ project:
       date: Feb 2024 - March 2024
       description: |
         Chat-book is a Python-based project designed for accessible edu-tech. Users can upload PDFs and perform queries in Hindi, English, Marathi, and Telugu using text or audio inputs. It offers viva generation, summarization, and MCQ generation features for comprehensive exam preparation. With its multi-language and multi-model approach, Chat-book enhances learning accessibility and inclusivity.
+    - name: Text to Video generation
+      link:
+      tags:
+      date: Feb 2024 - March 2024
+      description: |
+        Developed a text-to-video generation system leveraging deepfake technologies. Users can provide a video of their choice along with corresponding text, generating a realistic video of the person speaking the provided content. This innovative tool finds applications in automated news anchors, educational platforms, and more.
     - name: Speech to Speech translator
       link:
       tags:
