@@ -159,6 +159,8 @@ skill:
     
   items:
     - name: Python
+      level: 5
+    - name: Java
       level: 4
     - name: HTML
       level: 4
@@ -172,8 +174,6 @@ skill:
       level: 3
     - name: React.js
       level: 1
-    - name: Java
-      level: 4
     - name: PHP
       level: 2
 
@@ -207,7 +207,7 @@ education:
       major: Computer Engineering
       degree: B.Tech
       description: |
-        current CGPA: 9.87
+        current CGPA: 9.89
 
 
 certificate:
@@ -217,17 +217,36 @@ certificate:
   description: |
 
   items:
-    - name: <strong> Geeks for Geeks Solving for India Hackathon </strong>
+    - name: Geeks for Geeks Solving for India Hackathon </strong>
       issuer: geeks for geeks
       date: May 2023
       link: '#'
       description: |
+      
     - name: Programming for Everybody (getting started with python)
       issuer: Coursera
       date: 2023
       link:
       description: |
 
+    - name: HACK-A-LOUD
+      issuer: GDSC X CISCO Community
+      date: 2024
+      link:
+      description: |
+      
+    - name: Datathon 2.0 (round 3)
+      issuer: NMIMS (analytika)
+      date: 2024
+      link:
+      description: |
+
+    - name: Datathon (round 2)
+      issuer: KJ Somaiya
+      date: 2023
+      link:
+      description: |
+      
     - name: Summer Internship Program
       issuer: RAIT ACM
       date: 2022
